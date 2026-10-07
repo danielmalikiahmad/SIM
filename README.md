@@ -1,0 +1,21 @@
+BAB I 
+
+PENDAHULUAN 
+
+A. Latar Belakang 
+
+Perkembangan teknologi informasi saat ini telah membawa perubahan besar dalam berbagai sektor, termasuk sektor Usaha Mikro, Kecil, dan Menengah (UMKM). Di era digital ini, kecepatan, ketepatan, dan efisiensi dalam pengelolaan data menjadi kunci utama untuk mempertahankan dan mengembangkan sebuah bisnis. Salah satu aspek krusial dalam operasional usaha adalah manajemen keuangan. Pengelolaan keuangan yang buruk sering kali menjadi penyebab utama kegagalan UMKM karena pemilik kesulitan memantau arus kas (cash flow), menghitung keuntungan bersih, serta mengambil keputusan bisnis yang tepat. Sebaliknya, pengelolaan keuangan yang baik merupakan salah satu pilar utama dalam menjaga keberlangsungan dan perkembangan bisnis. 
+ 
+Idealnya, setiap transaksi keluar dan masuk harus dicatat secara real-time, akurat, dan terstruktur. Rekapitulasi keuangan yang tertata dengan baik memungkinkan pemilik usaha untuk mengetahui keuntungan bersih, memantau ketersediaan modal, serta mengambil keputusan bisnis yang tepat berdasarkan data yang valid. 
+
+UD Abadi merupakan salah satu unit usaha yang bergerak di bidang perdagangan hasil laut, khususnya penjualan ikan asin. Sebagai usaha yang sedang berkembang, UD Abadi menghadapi tantangan dalam mencatat dan merekapitulasi setiap transaksi keuangan harian. Proses pencatatan yang berjalan saat ini masih dilakukan secara konvensional atau manual, yaitu dengan menuliskan transaksi penjualan dan pembelian pada buku jurnal fisik. 
+ 
+Sistem manual ini memiliki berbagai kelemahan signifikan. Pertama, risiko kehilangan atau kerusakan data sangat tinggi akibat buku yang robek, terselip, atau terkena air sehingga dapat menyebabkan data historis keuangan hilang sepenuhnya. Kedua, proses rekapitulasi bulanan membutuhkan waktu yang lama karena pemilik atau admin harus menghitung ulang seluruh transaksi satu per satu untuk mengetahui laporan laba rugi. Ketiga, proses penghitungan total pendapatan dan pengeluaran harian, mingguan, atau bulanan sering kali mengalami selisih akibat kesalahan manusia (human error) seperti salah hitung atau terlewatnya pencatatan transaksi. Keempat, pemilik kesulitan untuk melihat laporan keuangan secara real-time saat sedang berada di luar lokasi usaha. 
+
+Untuk mengatasi permasalahan tersebut, diperlukan sebuah transformasi digital berupa penerapan Sistem Informasi Rekapitulasi Keuangan berbasis website. Pemilihan platform berbasis web dipilih karena memberikan aksesibilitas dan fleksibilitas akses yang tinggi, sehingga pemilik dapat memantau kondisi keuangan warung kapan saja dan di mana saja dengan menggunakan berbagai perangkat (smartphone, laptop, atau tablet) selama terhubung dengan internet. 
+ 
+Sistem ini memudahkan admin warung dalam mengelola keuangan karena perancangan antarmuka (interface) website dilakukan secara sederhana serta menjadikan penyimpanan data secara terpusat sehingga data transaksi penjualan, pembelian, dan biaya operasional dapat tersimpan dengan aman dalam basis data (database) serta dapat menghasilkan laporan keuangan otomatis secara akurat dan meminimalkan risiko kehilangan data fisik. 
+
+Dalam membangun sistem informasi ini, metode pengembangan perangkat lunak yang digunakan adalah Metode Waterfall. Metode Waterfall dipilih karena memiliki alur kerja yang terstruktur dan sistematis, mulai dari analisis kebutuhan, perancangan desain sistem, pengkodean (coding), pengujian (testing), hingga pemeliharaan (maintenance). Karakteristik metode ini yang mengharuskan satu tahap selesai sebelum melanjutkan ke tahap berikutnya sangat cocok untuk pengembangan sistem keuangan, di mana kebutuhan fungsional dan aturan bisnis (seperti rumus perhitungan akuntansi) sudah jelas dan pasti sejak awal, sehingga meminimalkan risiko kesalahan struktur di tengah jalan. 
+
+Berdasarkan uraian permasalahan di atas, maka dilakukan penelitian skripsi dengan judul "Sistem Informasi Rekapitulasi Keuangan pada Warung Ikan Asin UD Abadi Berbasis Website Menggunakan Metode Waterfall". Sistem ini diharapkan dapat membantu UD Abadi dalam mendigitalisasi manajemen keuangan mereka, mengurangi risiko kesalahan pencatatan, serta mempercepat proses pengambilan keputusan demi kemajuan usaha. 
